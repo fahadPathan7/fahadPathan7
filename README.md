@@ -39,7 +39,7 @@
 
 <p align="center">
 <a herf = "https://wakatime.com/@fahadpathan">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadPathan7&theme=algolia&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
 </p>
 
 <hr>
