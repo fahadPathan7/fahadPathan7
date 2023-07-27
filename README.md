@@ -34,7 +34,7 @@
 </p>
 
 <p align='center'>
-<img align='center' src= "https://github-readme-stats.vercel.app/api?username=fahadPathan7&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="420"> 
+<img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="45%" alt="stats graph"  />
 </p>
 
 <hr>
