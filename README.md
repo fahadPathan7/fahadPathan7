@@ -36,7 +36,7 @@
 <hr>
 
 <p align='center'>
-<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia" width="350"/>
+<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=10&theme=algolia" width="350"/>
 </p>
 
 <p align='center'>
@@ -45,7 +45,7 @@
 
 <p align="center">
 <a herf = "https://wakatime.com/@fahadpathan">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=false&layout=compact&hide_title=false&langs_count=14&range=all_time"  width="58%" /></a>
 </p>
 
 <hr>
