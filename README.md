@@ -36,11 +36,11 @@
 <hr>
 
 <p align='center'>
-<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia" width="37%"/>
+<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia" width="38%"/>
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="46%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="47%" alt="stats graph"  />
 </p>
 
 <p align="center">
