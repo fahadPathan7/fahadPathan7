@@ -39,6 +39,11 @@
 
 <hr>
 
+<hr>
+
+<h1 align="center"><b><i>Github Stats</i></b> </h1>
+
+
 <p align='center'>
 <img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia" width="39%"/>
 </p>
@@ -47,9 +52,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="48%" alt="stats graph"  />
 </p>
 
+<hr>
+
+<h1 align="center"><b><i>WakaTime Stats from 27-07-23</i></b> </h1>
+
+
 <p align="center">
 <a herf = "https://wakatime.com/@fahadpathan">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=false&layout=compact&hide_title=false&langs_count=14&range=all_time"  width="56%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=false&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="56%" /></a>
 </p>
 
 <hr>
@@ -59,3 +69,5 @@
 <p align='center'>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadPathan7&theme=react&count_private=true" >
 <p/>
+
+<hr>
