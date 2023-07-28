@@ -1,3 +1,5 @@
+<img align='center' src= "header.jpg">
+
 <h1 align="center">Hi 👋, I'm Fahad Pathan</h1>
 <h3 align="center">Passionate Software Engineering Student</h3>
 
