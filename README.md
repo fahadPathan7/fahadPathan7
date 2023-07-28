@@ -7,7 +7,7 @@
 <a href = "https://medium.com/@fahadpathan56" ><img src="https://img.shields.io/badge/Medium-Read_My_Blogs-%23898121" width="230" height="35"></a>
 </div>
 
-<br>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadpathan7&label=Profile%20views&color=0e75b6&style=flat" alt="fahadpathan7" /> </p>
 
@@ -36,16 +36,16 @@
 <hr>
 
 <p align='center'>
-<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=10&theme=algolia" width="350"/>
+<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia" width="37%"/>
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="45%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="46%" alt="stats graph"  />
 </p>
 
 <p align="center">
 <a herf = "https://wakatime.com/@fahadpathan">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=false&layout=compact&hide_title=false&langs_count=14&range=all_time"  width="58%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=false&layout=compact&hide_title=false&langs_count=14&range=all_time"  width="56%" /></a>
 </p>
 
 <hr>
