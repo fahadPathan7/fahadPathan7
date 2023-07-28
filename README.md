@@ -1,4 +1,4 @@
-<img align='center' src= "header.jpg">
+<img align='center' src= "images/header.jpg">
 
 <div align="center">
 <a href = "https://drive.google.com/file/d/11Ngo9yNC8bQb6h0zcM_LYAIZGAcla9dy/view?usp=drive_link" ><img src="https://img.shields.io/badge/Resume-Fahad_Pathan-%23116D6E" width="200" height="35"></a>
@@ -40,11 +40,11 @@
 <hr>
 
 <p align='center'>
-<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia" width="38%"/>
+<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia" width="39%"/>
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="47%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=fahadPathan7&theme=algolia&show_icons=true"  width="48%" alt="stats graph"  />
 </p>
 
 <p align="center">
@@ -57,6 +57,5 @@
 <h1 align="center"><b><i>Contribution Stack</i></b> </h1>
 
 <p align='center'>
-
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadPathan7&theme=react&count_private=true" >
 <p/>
