@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href = "https://drive.google.com/file/d/11Ngo9yNC8bQb6h0zcM_LYAIZGAcla9dy/view?usp=drive_link" ><img src="https://img.shields.io/badge/Resume-Fahad_Pathan-%23116D6E" width="200" height="35"></a>
-<a href = "https://fahadpathan7.github.io/My_Portfolio/" ><img src="https://img.shields.io/badge/Website-My_Portfolio-%2340128B" width="220"height="35"></a>
+<a href = "https://fahadpathan7.github.io/" ><img src="https://img.shields.io/badge/Website-My_Portfolio-%2340128B" width="220"height="35"></a>
 <a href = "https://medium.com/@fahadpathan56" ><img src="https://img.shields.io/badge/Medium-Read_My_Blogs-%23898121" width="230" height="35"></a>
 </div>
 
