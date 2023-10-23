@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadpathan7&label=Profile%20views&color=0e75b6&style=flat" alt="fahadpathan7" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **fahadpathan56@gmail.com**
 
@@ -76,7 +76,7 @@
 
 
 <p align='center'>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=8&theme=algolia&width=39%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=10&theme=algolia&width=39%"/>
 </p>
 
 <p align='center'>
@@ -90,7 +90,7 @@
 
 <p align="center">
 <a herf = "https://wakatime.com/@fahadpathan">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=false&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="56%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahadpathan&theme=algolia&hide_border=false&layout=compact&hide_title=true&langs_count=20&range=all_time"  width="56%" /></a>
 </p>
 
 <hr>
