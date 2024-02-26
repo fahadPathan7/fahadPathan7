@@ -76,7 +76,7 @@
 
 
 <p align='center'>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=10&theme=algolia&width=39%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=10&theme=algolia&hide=jupyter%20notebook&width=39%"/>
 </p>
 
 <p align='center'>
