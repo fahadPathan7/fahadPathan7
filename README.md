@@ -56,8 +56,8 @@
 <p style="color: white; font-size: 16px; font-weight: bold;">🚀 Backend Development</p>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./images/node.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./images/express.png" alt="express" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./images/node.svg" alt="nodejs" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./images/express.svg" alt="express" height="40"/> </a>
 </br><br>
 
 <p style="color: white; font-size: 16px; font-weight: bold;">🚀 Database</p>
