@@ -81,7 +81,8 @@
 
  <p style="color: white; font-size: 16px; font-weight: bold;">🚀 Tools</p>
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="./images/overleaf.svg" alt="latex" width="40"/> </a>
  <br><br>
 
 
