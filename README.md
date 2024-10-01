@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadpathan7&label=Profile%20views&color=0e75b6&style=flat" alt="fahadpathan7" /> </p>
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **ASP .Net**
 
 - 📫 How to reach me **fahadpathan56@gmail.com**
 
