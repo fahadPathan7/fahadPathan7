@@ -107,3 +107,7 @@ I'm always interested in interesting engineering challenges, collaborations, and
 **Email:** [fahadpathan56@gmail.com](mailto:fahadpathan56@gmail.com)
 
 **Portfolio:** [fahadpathan7.github.io](https://fahadpathan7.github.io/)
+
+<p align="right">
+  <sub><i>Updated: November 2026</i></sub>
+</p>
