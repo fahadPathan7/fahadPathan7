@@ -94,12 +94,6 @@ Also TensorFlow · Keras · NumPy · Pandas · Matplotlib
 
 <img src="https://skillicons.dev/icons?i=postman,docker,vscode" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadPathan7&layout=compact&langs_count=10&theme=algolia&hide=jupyter%20notebook" width="55%" />
-</p>
-
 ## 📬 Let's Connect
 
 I'm always interested in interesting engineering challenges, collaborations, and opportunities to build impactful products.
